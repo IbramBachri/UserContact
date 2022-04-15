@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GIthub User</string>
+    <string name="detail">Deatil User</string>
+    <string name="nama">Nama</string>
+    <string name="id">id</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="Favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting">Setting</string>
+    <string name="Setting">setting</string>
+</resources>
