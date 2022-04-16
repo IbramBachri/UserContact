@@ -1,6 +1,6 @@
 # UserContactGitHub
 
-my first app i lerned and Submission in dicoding.com and i chose for my Submission #JuaraAndroid
+my Submission #JuaraAndroid
 
 Aplications GitHub User use endpoint GitHub API
 
