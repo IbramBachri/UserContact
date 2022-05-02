@@ -1,7 +1,5 @@
 # UserContactGitHub
 
-my Submission #JuaraAndroid
-
 download https://github.com/IbramBachri/UserContact/releases/tag/v0.1.0
 
 Aplications GitHub User use endpoint GitHub API
